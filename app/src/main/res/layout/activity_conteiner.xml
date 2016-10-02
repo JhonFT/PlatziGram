@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_conteiner"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.developer.platzigram.view.ConteinerActivity">
+    <FrameLayout
+        android:id="@+id/conetainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/bottombar_height"
+        />
+    <include layout="@layout/bottom_bar"></include>
+</RelativeLayout>

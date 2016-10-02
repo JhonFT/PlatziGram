@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlatziGram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_pass">Password</string>
+    <string name="text_btn_login">Login</string>
+    <string name="dontHaveAccount">Dont have account?</string>
+    <string name="crate_here">Create Account</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_user">User</string>
+    <string name="hint_confirm_pass">Confirm Password</string>
+    <string name="text_btn_join_as">JOIN</string>
+    <string name="text_toolbar_create_acount">Create Account</string>
+    <string name="userNameCard">Uriel Ramirez</string>
+    <string name="serch_tab">Search</string>
+    <string name="home_tab">Home</string>
+    <string name="profile_tab">My</string>
+    <string name="firstWordCard">Hace</string>
+    <string name="second_word_datil">Me Gusta</string>
+</resources>
